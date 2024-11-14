@@ -115,7 +115,7 @@
  </div>
                                 </div>
                                 <div class="info-box_text">
-                                    <div class="icon"><img src="assets/img/icon/location-dot.svg" alt="img"></div>
+                                    <div class="icon"><img src="assets/img/icon/location-dot3.svg" alt="img"></div>
                                     <div class="details">
                                         <p>Makuza Peace Plaza 3rd Floor F3-28, KN 4 Ave, Kigali</p>
                                     </div>
