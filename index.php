@@ -13,7 +13,7 @@ include('Loader.php');
 
 <body>
   <?php include('./Components/navbar.php') ?>
-<<<<<<< HEAD
+
   <div class="th-hero-wrapper hero-1"  id="hero">
     <div class="swiper th-slider hero-slider-1" id="heroSlide1"
       data-slider-options='{"effect":"fade","menu": ["", "", ""],"heroSlide1": {"swiper-container": {"pagination": {"el": ".swiper-pagination", "clickable": true }}}}'>
@@ -24,7 +24,7 @@ include('Loader.php');
             </div>
             <div class="container">
               <div class="hero-style1"  style=""><span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Get
-=======
+
   <div class="th-hero-wrapper hero-1" id="hero">
     <div class="swiper th-slider hero-slider-1" id="heroSlide1"
       data-slider-options='{"effect":"fade","menu": ["", "", ""],"heroSlide1": {"swiper-container": {"pagination": {"el": ".swiper-pagination", "clickable": true }}}}'>
@@ -35,7 +35,7 @@ include('Loader.php');
             </div>
             <div class="container">
               <div class="hero-style1"><span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Get
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
+
                   unforgetable pleasure with us</span>
                 <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.4s">Natural Wonder of the world</h1>
                 <div class="btn-group" data-ani="slideinup" data-ani-delay="0.6s"><a href="tour.html"
