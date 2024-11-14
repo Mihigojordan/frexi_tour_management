@@ -98,11 +98,9 @@
                                     <div class="icon"><img src="assets/img/icon/phone.svg" alt="img"></div>
                                     <div class="details">
 
-                                        <!-- <p><a href="tel:+01234567890" class="info-box_link">+250 783 553 278</a></p> -->
+                                       
                                         <p><a href="tel:+250 782 379 122" class="info-box_link" style="margin-top:130px">+250 782 379 122</a></p>
 
-                                        <p><a href="tel:+01234567890" class="info-box_link">+250 783 553 278</a></p>
-                                        <p><a href="tel:+09876543210" class="info-box_link">+250 782 379 122</a></p>
 
                                     </div>
                                 </div>
@@ -111,16 +109,15 @@
                                     <div class="details">
 
                                         <p><a href="mailto:mailinfo00@tourm.com" class="info-box_link">booking@frexi.rw</a></p>
-                                        <!-- <p><a href="mailto:support24@tourm.com" class="info-box_link">fabrice@flex.rw</a></p> -->
+                                    
 
-                                        <p><a href="mailto:mailinfo00@tourm.com" class="info-box_link">booking@flex.rw</a></p>
-                                        <p><a href="mailto:support24@tourm.com" class="info-box_link">fabrice@flex.rw</a></p>
+                                  
  </div>
                                 </div>
                                 <div class="info-box_text">
                                     <div class="icon"><img src="assets/img/icon/location-dot.svg" alt="img"></div>
                                     <div class="details">
-                                        <p>Makuza Peace Plazza 3rd Floor F3-28, KN 4 Ave, Kigali</p>
+                                        <p>Makuza Peace Plaza 3rd Floor F3-28, KN 4 Ave, Kigali</p>
                                     </div>
                                 </div>
                             </div>
@@ -146,7 +143,7 @@
             <div class="container">
                 <div class="row justify-content-between align-items-center">
                     <div class="col-md-6">
-                        <p class="copyright-text">Copyright 2024 <a href="index.php">frexi</a>. All Rights Reserved.</p>
+                        <p class="copyright-text">Copyright 2024 <a href="index.php">frexi tour and travel </a>. All Rights Reserved.</p>
                     </div>
                     <div class="col-md-6 text-end d-none d-md-block">
                         <div class="footer-card"><span class="title">We Accept</span> <img src="assets/img/shape/cards.png" alt="">

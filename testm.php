@@ -179,21 +179,21 @@
   </section>
 
   <div class="brand-area overflow-hidden space-bottom">
-<<<<<<< HEAD
+
 
 
     <div class="container th-container">
     <div class="title-area mb-40 text-center"><span class="sub-title">Partners</span>
         <h2 class="sec-title">our partners </h2>
       </div>
-=======
+
     <div class="container th-container">
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
+
       <div class="swiper th-slider brandSlider1" id="brandSlider1"
         data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"2"},"768":{"slidesPerView":"3"},"992":{"slidesPerView":"3"},"1200":{"slidesPerView":"6"},"1400":{"slidesPerView":"8"}}}'>
         <div class="swiper-wrapper">
           <div class="swiper-slide">
-<<<<<<< HEAD
+
             <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/rwanda.png" style="margin-top:32px"
                   alt="Brand Logo"> <img class="gray" src="assets/img/brand/rwanda.png" style="margin-top:32px" alt="Brand Logo"></a></div>
           </div>
@@ -222,57 +222,10 @@
                   alt="Brand Logo"> <img class="gray" src="assets/img/brand/oldmatual.png" style="margin-top:-35px" alt="Brand Logo"></a></div>
           </div>
       
-=======
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_1.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_1.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_2.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_2.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_3.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_3.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_4.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_4.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_5.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_5.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_6.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_6.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_7.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_7.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_8.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_8.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_4.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_4.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_3.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_3.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_2.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_2.svg" alt="Brand Logo"></a></div>
-          </div>
-          <div class="swiper-slide">
-            <div class="brand-box"><a href="#"><img class="original" src="assets/img/brand/brand_1_1.svg"
-                  alt="Brand Logo"> <img class="gray" src="assets/img/brand/brand_1_1.svg" alt="Brand Logo"></a></div>
-          </div>
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
-        </div>
-      </div>
+</div>
+
+</div>
+</div></div>
     </div>
   </div>
 </body>

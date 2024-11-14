@@ -121,10 +121,6 @@ button {
 img {
   border: none;
   max-width: 100%;
-<<<<<<< HEAD
-  color:#113d48;
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 }
 ins {
   text-decoration: none;
@@ -5641,10 +5637,6 @@ a.text-theme:hover,
 }
 .widget-call .info-box_link {
   font-size: 18px;
-<<<<<<< HEAD
-  margin-top:20px;
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
   color: var(--white-color);
 }
 .widget-call .info-box_link:hover {
@@ -9446,20 +9438,10 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
   transform: rotate(-90deg);
   right: 55px;
   z-index: 9;
-<<<<<<< HEAD
-  /* border:2px solid red; */
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 }
 @media (max-width: 767px) {
   .hero-1 .th-swiper-custom {
     display: none;
-<<<<<<< HEAD
-    border:2px solid red;
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
   }
 }
 .hero-1 .th-swiper-custom .swiper-pagination-bullets {
@@ -9469,11 +9451,6 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
   margin: 25px 0 0px 0;
   line-height: 10px;
   height: 3px;
-<<<<<<< HEAD
-  /* border:2px solid red; */
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 }
 .hero-1 .th-swiper-custom .swiper-pagination-bullets .swiper-pagination-bullet {
   display: inline-block;
@@ -9574,11 +9551,7 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
   max-width: 700px;
   padding: 206px 0 260px 0;
   margin-left:-200px;
-<<<<<<< HEAD
-
-=======
   /* border:2px solid red; */
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 }
 .hero-style1 .sub-title {
   color: var(--white-color);
@@ -9603,30 +9576,15 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
-<<<<<<< HEAD
- 
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
   }
 }
 @media (max-width: 991px) {
   .hero-style1 {
     max-width: 550px;
-<<<<<<< HEAD
-  
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
   }
   .hero-style1 .hero-title {
     font-size: 58px;
     line-height: 68px;
-<<<<<<< HEAD
-  
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
   }
 }
 @media (max-width: 767px) {
@@ -9635,11 +9593,6 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
     max-width: 100%;
     text-align: center;
     margin: 0 auto 50px auto;
-<<<<<<< HEAD
-    border:2px solid red;
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
   }
   .hero-1 .hero-shape2 {
     display: none;
@@ -9660,16 +9613,6 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
     right: 5%;
   }
 }
-<<<<<<< HEAD
-
-@media (max-width: 1750px) {
-  .hero-style1 {
- margin-left:40px;
- /* border:2px solid red; */
-  }
-}
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 @media (max-width: 767px) {
   .hero-style1 .hero-title {
     font-size: 44px;
@@ -9720,13 +9663,6 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
     max-width: 100%;
   }
 }
-<<<<<<< HEAD
-
-
-
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 .hero-2 video {
   position: absolute;
   inset: 0;
@@ -9810,17 +9746,6 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
   border-radius: 24px;
   overflow: hidden;
 }
-<<<<<<< HEAD
-
-@media (max-width: 1299px) {
-  .hero-2 .th-hero-bg {
-    border-radius: 24px;
-    overflow: hidden;
-    /* border:2px solid red; */
-  }
-}
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 .hero-2 .th-hero-bg:before {
   content: "";
   position: absolute;
@@ -11728,15 +11653,6 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
   margin-top: 0px;
   /* height:300px; */
 }
-<<<<<<< HEAD
-
-@media (max-width: 1730px) {
-  .hero-10 .booking-form {
-    padding: 18px 32px;
-  }
-}
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 @media (max-width: 1299px) {
   .hero-10 .booking-form {
     padding: 18px 32px;
@@ -19343,24 +19259,11 @@ span.select2-selection.select2-selection--single:focus {
   --main-container: 1648px;
 }
 .brand-box {
-<<<<<<< HEAD
-  width:100%;
-  /* border:2px solid red; */
-  margin:10px;
-  display:flex;
-  justify-content:center;
-  align-items: center;
-  height:100px;
-  overflow: hidden;
-  margin: auto;
-  /* position: relative; */
-=======
   width: 150px;
   height: 150px;
   overflow: hidden;
   margin: auto;
   position: relative;
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
   display: block;
 }
 .brand-box:hover a img.gray {
@@ -19380,10 +19283,6 @@ span.select2-selection.select2-selection--single:focus {
   -webkit-transform: translateY(100%);
   -ms-transform: translateY(100%);
   transform: translateY(100%);
-<<<<<<< HEAD
-  width:100%;
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 }
 .brand-box img {
   margin: 0 auto;
@@ -19393,10 +19292,6 @@ span.select2-selection.select2-selection--single:focus {
   top: 0;
   left: 0;
   right: 0;
-<<<<<<< HEAD
-  width: 100%;
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 }
 .brand-box img.gray {
   -webkit-transition: all 0.3s ease-in-out;
@@ -25110,37 +25005,12 @@ span.select2-selection.select2-selection--single:focus {
   margin-left:-195px;
   height:150px;
   width:130%;
-<<<<<<< HEAD
-  overflow:hidden;
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 }
 @media (max-width: 1199px) {
   .booking-form {
     padding: 20px 20px;
   }
 }
-<<<<<<< HEAD
-
-@media (max-width: 1800px) {
-  .booking-form {
-    width:125%;
-  }
-}
-
-@media (max-width: 1600px) {
-  .booking-form {
-    width:100%;
-    margin-left:2px;
-  }
-}
-
-
-
-
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 .booking-form.style2 {
   position: relative;
   left: 0;
@@ -25152,14 +25022,6 @@ span.select2-selection.select2-selection--single:focus {
   border: none;
   min-width: 896px;
 }
-<<<<<<< HEAD
-@media (max-width: 1750px) {
-  .booking-form.style2 {
-    min-width: 400px;
-  }
-}
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 @media (max-width: 1399px) {
   .booking-form.style2 {
     min-width: 849px;
@@ -25186,19 +25048,11 @@ span.select2-selection.select2-selection--single:focus {
   margin-bottom: 0;
   height: 41px;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 @media (max-width: 1199px) {
   .booking-form.style2 .input-wrap .form-group {
     height: 100%;
     padding-bottom: 20px;
     padding-left: 13px;
-<<<<<<< HEAD
-
-=======
->>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
   }
 }
 @media (max-width: 1199px) {
