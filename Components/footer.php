@@ -97,15 +97,25 @@
                                 <div class="info-box_text">
                                     <div class="icon"><img src="assets/img/icon/phone.svg" alt="img"></div>
                                     <div class="details">
+<<<<<<< HEAD
                                         <!-- <p><a href="tel:+01234567890" class="info-box_link">+250 783 553 278</a></p> -->
                                         <p><a href="tel:+250 782 379 122" class="info-box_link" style="margin-top:130px">+250 782 379 122</a></p>
+=======
+                                        <p><a href="tel:+01234567890" class="info-box_link">+250 783 553 278</a></p>
+                                        <p><a href="tel:+09876543210" class="info-box_link">+250 782 379 122</a></p>
+>>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
                                     </div>
                                 </div>
                                 <div class="info-box_text">
                                     <div class="icon"><img src="assets/img/icon/envelope.svg" alt="img"></div>
                                     <div class="details">
+<<<<<<< HEAD
                                         <p><a href="mailto:mailinfo00@tourm.com" class="info-box_link">booking@frexi.rw</a></p>
                                         <!-- <p><a href="mailto:support24@tourm.com" class="info-box_link">fabrice@flex.rw</a></p> -->
+=======
+                                        <p><a href="mailto:mailinfo00@tourm.com" class="info-box_link">booking@flex.rw</a></p>
+                                        <p><a href="mailto:support24@tourm.com" class="info-box_link">fabrice@flex.rw</a></p>
+>>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
                                     </div>
                                 </div>
                                 <div class="info-box_text">

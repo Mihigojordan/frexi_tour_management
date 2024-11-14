@@ -150,11 +150,17 @@
           <div class="col-auto d-none d-md-block">
             <div class="header-links">
               <ul>
+<<<<<<< HEAD
               <li class="d-none d-xl-inline-block">
               
               <img src="assets/img/icon/location-dot3.svg" style="width:20px;margin-left:20px;margin-right:10px" alt="img">  <a href="https://www.google.com/maps/place/Frexi/@-1.9474421,30.0840042,4507m/data=!3m1!1e3!4m6!3m5!1s0x19dca5fb342af781:0x5e67c6456866c0b0!8m2!3d-1.9466687!4d30.0595045!16s%2Fg%2F11ssdhpp4w?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D">Makuza Peace Plazza 3rd Floor F3-28, KN 4 Ave, Kigali
                   </a></li>
                 <li class="d-none d-xl-inline-block"><i class="fa-regular fa-clock"></i> <span>from monday - sunday  <span style="margin-left:20px">24 / 7 </span>
+=======
+              <li class="d-none d-xl-inline-block"><img src="assets/img/icon/location-dot.svg" alt="img">  <a href="https://www.google.com/maps/place/Frexi/@-1.9474421,30.0840042,4507m/data=!3m1!1e3!4m6!3m5!1s0x19dca5fb342af781:0x5e67c6456866c0b0!8m2!3d-1.9466687!4d30.0595045!16s%2Fg%2F11ssdhpp4w?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D">Makuza Peace Plazza 3rd Floor F3-28, KN 4 Ave, Kigali
+                  </a></li>
+                <li class="d-none d-xl-inline-block"><i class="fa-regular fa-clock"></i> <span>from monday - sunday    24/7 
+>>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
                   </span></li>
               </ul>
             </div>
@@ -185,9 +191,15 @@
           <div class="row align-items-center justify-content-between">
             <div class="col-auto">
               <div class="header-logo" style="display:flex;justify-content:center;">
+<<<<<<< HEAD
              <img src="assets/img/frexilogo.png" style="height:80px;width:100px;" alt="">
 
              <!-- <h1 style="font-size: 35px; text-transform:capitalize;font-size:20px;margin-top:25px;font-style:italic">frexi tours and travel</h1> -->
+=======
+             <img src="assets/img/frexilogo.png" style="height:50px;width:50px" alt="">
+
+             <h1 style="font-size: 35px; text-transform:capitalize;font-size:20px;margin-top:25px;font-style:italic">frexi tours and travel</h1>
+>>>>>>> 85b81c741cb3606071420c4ea6c44fe9f01c6446
 
               </div>
             </div>
