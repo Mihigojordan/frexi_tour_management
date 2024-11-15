@@ -1,15 +1,17 @@
 <!doctype html>
+  <!-- Mirrored from html.themeholy.com/tourm/demo/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Nov 2024 15:19:15 GMT -->
+ 
 <class="no-js" lang="zxx">
 
 <?php
 
 include('header.php');
 
-include('Loader.php');
-   
 
 ?>
-
+<?php
+include('Loader.php');
+   ?>
 
 <body>
   <?php include('./Components/navbar.php') ?>
@@ -25,8 +27,8 @@ include('Loader.php');
               <div class="hero-style1"><span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Get
                   unforgetable pleasure with us</span>
                 <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.4s">Natural Wonder of the world</h1>
-                <div class="btn-group" data-ani="slideinup" data-ani-delay="0.6s"><a href="tour.html"
-                    class="th-btn th-icon">Explore Tours</a> <a href="service.html" class="th-btn style2 th-icon">Our
+                <div class="btn-group" data-ani="slideinup" data-ani-delay="0.6s"><a href="destination.php"
+                    class="th-btn th-icon">Explore Tours</a> <a href="service.php" class="th-btn style2 th-icon">Our
                     Services</a></div>
               </div>
             </div>
@@ -42,8 +44,8 @@ include('Loader.php');
               <div class="hero-style1"><span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Get
                   unforgetable pleasure with us</span>
                 <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.4s">Let’s craft your best trip together</h1>
-                <div class="btn-group" data-ani="slideinup" data-ani-delay="0.6s"><a href="tour.html"
-                    class="th-btn th-icon">Explore Tours</a> <a href="service.html" class="th-btn style2 th-icon">Our
+                <div class="btn-group" data-ani="slideinup" data-ani-delay="0.6s"><a href="destination.php"
+                    class="th-btn th-icon">Explore Tours</a> <a href="service.php" class="th-btn style2 th-icon">Our
                     Services</a></div>
               </div>
             </div>
@@ -59,8 +61,8 @@ include('Loader.php');
               <div class="hero-style1"><span class="sub-title style1" data-ani="slideinup" data-ani-delay="0.2s">Get
                   unforgetable pleasure with us</span>
                 <h1 class="hero-title" data-ani="slideinup" data-ani-delay="0.4s">Explore beauty of the whole world</h1>
-                <div class="btn-group" data-ani="slideinup" data-ani-delay="0.6s"><a href="tour.html"
-                    class="th-btn th-icon">Explore Tours</a> <a href="service.html" class="th-btn style2 th-icon">Our
+                <div class="btn-group" data-ani="slideinup" data-ani-delay="0.6s"><a href="destination.php"
+                    class="th-btn th-icon">Explore Tours</a> <a href="service.php" class="th-btn style2 th-icon">Our
                     Services</a></div>
               </div>
             </div>
@@ -74,8 +76,8 @@ include('Loader.php');
       </div>
     </div>
   </div>
-  <div class="booking-sec">
-    <div class="container">
+  <div class="booking-sec" >
+    <div class="container" >
       <form action="https://html.themeholy.com/tourm/demo/mail.php" method="POST" class="booking-form ajax-contact">
         <div class="input-wrap">
           <div class="row align-items-center justify-content-between">

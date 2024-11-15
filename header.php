@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
   <link rel="apple-touch-icon" sizes="57x57" href="assets/img/frexilogo.png">
   <link rel="apple-touch-icon" sizes="60x60" href="assets/img/frexilogo.png">
-  <link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicons/apple-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="assets/img/frexilogo.png">
   <link rel="apple-touch-icon" sizes="76x76" href="assets/img/frexilogo.png">
   <link rel="apple-touch-icon" sizes="114x114" href="assets/img/frexilogo.png">
   <link rel="apple-touch-icon" sizes="120x120" href="assets/img/frexilogo.png">

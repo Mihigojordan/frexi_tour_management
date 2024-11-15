@@ -2016,6 +2016,8 @@ input[type="time"]::-webkit-calendar-picker-indicator {
   position: absolute;
   left: 50%;
   top: 40%;
+  width:100px;
+  height: 120px;
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
@@ -2024,6 +2026,8 @@ input[type="time"]::-webkit-calendar-picker-indicator {
 }
 .preloader-inner img {
   display: block;
+  width:70%; 
+  height:70%; 
   margin: 0 auto 30px auto;
 }
 .th-preloader {
@@ -11354,7 +11358,6 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
 .hero-8 .booking-sec {
   position: absolute;
   width: 100%;
-  /* bottom: 60px; */
   border:2px solid red;
 
 }
@@ -24999,12 +25002,10 @@ span.select2-selection.select2-selection--single:focus {
   box-shadow: 0px 20px 20px rgba(204, 204, 204, 0.25);
   border-radius: 16px;
   padding: 41px 32px;
-  
   z-index: 3;
   margin-top:-85px;
-  margin-left:-195px;
   height:150px;
-  width:130%;
+  width:100%;
 }
 @media (max-width: 1199px) {
   .booking-form {

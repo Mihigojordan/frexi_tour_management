@@ -65,7 +65,7 @@
                                     
                                 <img src="assets/img/frexilogo.png" style="height:60px" alt="Tourm">
                             
-             <h1 style="font-size: 35px; text-transform:capitalize;font-size:20px;margin-top:32px;font-style:italic">frexi tours and travel</h1>
+             <!-- <h1 style="font-size: 35px; text-transform:capitalize;font-size:20px;margin-top:32px;font-style:italic">frexi tours and travel</h1> -->
 
                             
                             </a>
@@ -115,7 +115,7 @@
  </div>
                                 </div>
                                 <div class="info-box_text">
-                                    <div class="icon"><img src="assets/img/icon/location-dot3.svg" alt="img"></div>
+                                    <div class="icon"><img src="assets/img/icon/location-dot.svg" alt="img"></div>
                                     <div class="details">
                                         <p>Makuza Peace Plaza 3rd Floor F3-28, KN 4 Ave, Kigali</p>
                                     </div>
