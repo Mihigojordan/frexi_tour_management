@@ -9574,6 +9574,18 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
 .hero-style1 .btn-group {
   gap: 16px;
 }
+
+@media (max-width:1700px) {
+  .hero-style1 {
+    position: relative;
+    z-index: 9;
+    max-width: 700px;
+    padding: 206px 0 260px 0;
+    margin-left:-30px;
+    /* border:2px solid red; */
+  }
+}
+
 @media (max-width: 480px) {
   .hero-style1 .btn-group {
     -webkit-box-pack: center;
@@ -11654,7 +11666,7 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
 .hero-10 .booking-form {
   padding: 37px 32px;
   margin-top: 0px;
-  /* height:300px; */
+
 }
 @media (max-width: 1299px) {
   .hero-10 .booking-form {
@@ -11666,9 +11678,7 @@ ul.comment-list:has(> .th-comment-item ~ .th-comment-item):first-child
     margin-top: 0;
   }
 }
-.booking-form{
-  border:2px solid red;
-}
+
 .hero-10 .scroll-down {
   -webkit-transform: rotate(-90deg);
   -ms-transform: rotate(-90deg);
