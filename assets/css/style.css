@@ -14957,11 +14957,12 @@ span.select2-selection.select2-selection--single:focus {
 .about-contact-grid .about-contact-icon img {
   -webkit-filter: brightness(0) invert(1);
   filter: brightness(0) invert(1);
+
 }
 .about-contact-grid .box-title {
   font-size: 20px;
   font-weight: 600;
-  margin-top: -0.3em;
+  /* margin-top: -0.3em; */
   margin-bottom: 2px;
 }
 .about-contact-grid .about-contact-details-text {

@@ -44,13 +44,13 @@ include('Loader.php');
       <div class="row gy-4 justify-content-center">
         <div class="col-xl-4 col-lg-6">
           <div class="about-contact-grid style2">
-            <div class="about-contact-icon">
-              <img src="assets/img/icon/location-dot2.svg" alt="" />
+            <div class="about-contact-icon" >
+              <img src="assets/img/icon/location-dot2.svg" alt=""  />
             </div>
             <div class="about-contact-details">
               <h6 class="box-title">Our Address</h6>
               <p class="about-contact-details-text">
-                makuza tower
+              Makuza Peace Plaza 3rd Floor F3-28, KN 4 Ave, Kigali
               </p>
               <p class="about-contact-details-text"></p>
             </div>
@@ -64,7 +64,7 @@ include('Loader.php');
             <div class="about-contact-details">
               <h6 class="box-title">Phone Number</h6>
               <p class="about-contact-details-text">
-                <a href="tel:250783533278">+250 783 553 278</a>
+                <!-- <a href="tel:250783533278">+250 783 553 278</a> -->
               </p>
               <p class="about-contact-details-text">
                 <a href="tel:250782379122">+250 782 379 122</a>
@@ -80,7 +80,7 @@ include('Loader.php');
             <div class="about-contact-details">
               <h6 class="box-title">Email Address</h6>
               <p class="about-contact-details-text">
-                <a href="mailto:fabrice@frexi.rw">fabrice@frexi.rw</a>
+                <!-- <a href="mailto:fabrice@frexi.rw">fabrice@frexi.rw</a> -->
               </p>
               <p class="about-contact-details-text">
                 <a href="mailto:booking@frexi.ltd">booking@frexi.rw</a>
@@ -163,7 +163,7 @@ include('Loader.php');
       </div>
     </div>
   </div>
-  <?php include('./components/footer.php') ?>
+
   <div class="scroll-top">
     <svg
       class="progress-circle svg-content"
@@ -179,145 +179,8 @@ include('Loader.php');
           "></path>
     </svg>
   </div>
-  <div id="login-form" class="popup-login-register mfp-hide">
-    <ul class="nav" id="pills-tab" role="tablist">
-      <li class="nav-item" role="presentation">
-        <button
-          class="nav-menu"
-          id="pills-home-tab"
-          data-bs-toggle="pill"
-          data-bs-target="#pills-home"
-          type="button"
-          role="tab"
-          aria-controls="pills-home"
-          aria-selected="false">
-          Login
-        </button>
-      </li>
-      <li class="nav-item" role="presentation">
-        <button
-          class="nav-menu active"
-          id="pills-profile-tab"
-          data-bs-toggle="pill"
-          data-bs-target="#pills-profile"
-          type="button"
-          role="tab"
-          aria-controls="pills-profile"
-          aria-selected="true">
-          Register
-        </button>
-      </li>
-    </ul>
-    <div class="tab-content" id="pills-tabContent">
-      <div
-        class="tab-pane fade"
-        id="pills-home"
-        role="tabpanel"
-        aria-labelledby="pills-home-tab">
-        <h3 class="box-title mb-30">Sign in to your account</h3>
-        <div class="th-login-form">
-          <form
-            action="https://html.themeholy.com/tourm/demo/mail.php"
-            method="POST"
-            class="login-form ajax-contact">
-            <div class="row">
-              <div class="form-group col-12">
-                <label>Username or email</label>
-                <input
-                  type="text"
-                  class="form-control"
-                  name="email"
-                  id="email"
-                  required="required" />
-              </div>
-              <div class="form-group col-12">
-                <label>Password</label>
-                <input
-                  type="password"
-                  class="form-control"
-                  name="pasword"
-                  id="pasword"
-                  required="required" />
-              </div>
-              <div class="form-btn mb-20 col-12">
-                <button class="th-btn btn-fw th-radius2">Send Message</button>
-              </div>
-            </div>
-            <div id="forgot_url">
-              <a href="my-account.html">Forgot password?</a>
-            </div>
-            <p class="form-messages mb-0 mt-3"></p>
-          </form>
-        </div>
-      </div>
-      <div
-        class="tab-pane fade active show"
-        id="pills-profile"
-        role="tabpanel"
-        aria-labelledby="pills-profile-tab">
-        <h3 class="th-form-title mb-30">Sign in to your account</h3>
-        <form
-          action="https://html.themeholy.com/tourm/demo/mail.php"
-          method="POST"
-          class="login-form ajax-contact">
-          <div class="row">
-            <div class="form-group col-12">
-              <label>Username*</label>
-              <input
-                type="text"
-                class="form-control"
-                name="usename"
-                id="usename"
-                required="required" />
-            </div>
-            <div class="form-group col-12">
-              <label>First name*</label>
-              <input
-                type="text"
-                class="form-control"
-                name="firstname"
-                id="firstname"
-                required="required" />
-            </div>
-            <div class="form-group col-12">
-              <label>Last name*</label>
-              <input
-                type="text"
-                class="form-control"
-                name="lastname"
-                id="lastname"
-                required="required" />
-            </div>
-            <div class="form-group col-12">
-              <label for="new_email">Your email*</label>
-              <input
-                type="text"
-                class="form-control"
-                name="new_email"
-                id="new_email"
-                required="required" />
-            </div>
-            <div class="form-group col-12">
-              <label for="new_email_confirm">Confirm email*</label>
-              <input
-                type="text"
-                class="form-control"
-                name="new_email_confirm"
-                id="new_email_confirm"
-                required="required" />
-            </div>
-            <div class="statement">
-              <span class="register-notes">A password will be emailed to you.</span>
-            </div>
-            <div class="form-btn mt-20 col-12">
-              <button class="th-btn btn-fw th-radius2">Sign up</button>
-            </div>
-          </div>
-          <p class="form-messages mb-0 mt-3"></p>
-        </form>
-      </div>
-    </div>
   </div>
+  <?php include('./components/footer.php') ?>
 
 </body>
 <!-- Mirrored from html.themeholy.com/tourm/demo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Nov 2024 15:19:49 GMT -->
