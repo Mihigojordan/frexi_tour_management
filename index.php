@@ -78,7 +78,7 @@ include('Loader.php');
   </div>
   <div class="booking-sec" >
     <div class="container" >
-      <form action="https://html.themeholy.com/tourm/demo/mail.php" method="POST" class="booking-form ajax-contact" style="overflow:scroll">
+      <form action="https://html.themeholy.com/tourm/demo/mail.php" method="POST" class="booking-form ajax-contact" style="overflow:hidden">
         <div class="input-wrap">
           <div class="row align-items-center justify-content-between">
             <div class="form-group col-md-6 col-lg-auto">
