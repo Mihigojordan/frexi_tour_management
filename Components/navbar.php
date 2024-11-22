@@ -125,17 +125,17 @@
         <ul>
           <li><a href="index.php">Home</a></li>
           <li><a href="about.php">About Us</a></li>
-          <li class="menu-item-has-children"><a href="destination.php">Destination</a>
+          <li class="menu-item"><a href="destination.php">Destination</a>
 
           </li>
-          <li class="menu-item-has-children"><a href="service.php">Service</a>
+          <li class="menu-ite"><a href="service.php">Service</a>
 
           </li>
           
-          <li class="menu-item-has-children"><a href="gallery.php">gallery</a>
+          <li class=""><a href="gallery.php">gallery</a>
 
           </li>
-          <li class="menu-item-has-children"><a href="blog.php">Blog</a>
+          <li class=""><a href="blog.php">Blog</a>
 
           </li>
           <li><a href="contact.php">Contact us</a></li>
@@ -185,7 +185,7 @@
           <div class="row align-items-center justify-content-between">
             <div class="col-auto">
               <div class="header-logo" style="display:flex;justify-content:center;">
-             <img src="assets/img/frexilogo.png" style="height:80px;width:100px;" alt="">
+             <img src="assets/img/frexilogo.png" style="height:60px;width:80px;" alt="">
 
              <!-- <h1 style="font-size: 35px; text-transform:capitalize;font-size:20px;margin-top:25px;font-style:italic">frexi tours and travel</h1> -->
 

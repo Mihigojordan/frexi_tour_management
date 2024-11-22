@@ -46,7 +46,8 @@
         ><i class="fa fa-shopping-cart me-2"></i> Purchase</a
       >
     </div>
-    <div id="preloader" class="preloader"><button class="th-btn preloaderCls">Cancel Preloader</button>
+    <div id="preloader" class="preloader">
+      <button class=" preloaderCls"></button>
     <div class="preloader-inner"><img src="assets/img/frexilogo.png" alt=""></div>
     <div id="loader" class="th-preloader">
       <div class="animation-preloader">

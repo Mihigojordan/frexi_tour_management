@@ -14937,8 +14937,8 @@ span.select2-selection.select2-selection--single:focus {
   -webkit-flex: none;
   -ms-flex: none;
   flex: none;
-  width: 70px;
-  height: 70px;
+  width: 50px;
+  height: 50px;
   line-height: 68px;
   text-align: center;
   background: var(--title-color);
@@ -14957,12 +14957,13 @@ span.select2-selection.select2-selection--single:focus {
 .about-contact-grid .about-contact-icon img {
   -webkit-filter: brightness(0) invert(1);
   filter: brightness(0) invert(1);
+  margin-top:10px;
 
 }
 .about-contact-grid .box-title {
   font-size: 20px;
   font-weight: 600;
-  /* margin-top: -0.3em; */
+  margin-top: -0.3em;
   margin-bottom: 2px;
 }
 .about-contact-grid .about-contact-details-text {
@@ -19273,8 +19274,8 @@ span.select2-selection.select2-selection--single:focus {
   --main-container: 1648px;
 }
 .brand-box {
-  width: 150px;
-  height: 150px;
+  width: 100%;
+  height: 120px;
   overflow: hidden;
   margin: auto;
   position: relative;
@@ -25066,12 +25067,12 @@ span.select2-selection.select2-selection--single:focus {
 }
 .booking-form.style2 .input-wrap .form-group {
   margin-bottom: 0;
-  height: 41px;
+  height:auto;
   /* overflow:scroll; */
 }
 @media (max-width: 1199px) {
   .booking-form.style2 .input-wrap .form-group {
-    height: 100%;
+    height: auto;
     padding-bottom: 20px;
     padding-left: 13px;
   }
@@ -25141,7 +25142,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 .booking-form.style5 .input-wrap .form-group {
   margin-bottom: 0;
-  height: 41px;
+
 }
 @media (max-width: 1199px) {
   .booking-form.style5 .input-wrap .form-group {
@@ -25649,6 +25650,7 @@ span.select2-selection.select2-selection--single:focus {
   top: 10px;
   border: 0;
   background: var(--theme-color);
+  display:none;
   color: var(--white-color);
   height: 45px;
   width: 45px;
