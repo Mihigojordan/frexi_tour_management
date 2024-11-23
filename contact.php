@@ -180,7 +180,7 @@ include('Loader.php');
     </svg>
   </div>
   </div>
-  <?php include('./components/footer.php') ?>
+  <?php include('./Components/footer.php') ?>
 
 </body>
 <!-- Mirrored from html.themeholy.com/tourm/demo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Nov 2024 15:19:49 GMT -->
