@@ -232,7 +232,7 @@ Merci Frexi.”</p>
         <h2 class="sec-title">our partners </h2>
       </div>
 
-    <div class="container th-container">
+    <div class="container th-container" style="margin-left:100px">
 
       <div class="swiper th-slider brandSlider1" style="" id="brandSlider1"
         data-slider-options='{"breakpoints":{"0":{"slidesPerView":1},"576":{"slidesPerView":"2"},"768":{"slidesPerView":"3"},"992":{"slidesPerView":"3"},"1200":{"slidesPerView":"6"},"1400":{"slidesPerView":"8"}}}'>

@@ -61,9 +61,9 @@
                     <div class="col-md-6 col-xl-3">
                         <div class="widget footer-widget">
                             <div class="th-widget-about">
-                                <div class="about-logo"><a href="home-travel.html" style="display:flex;justify-content:center;">
+                                <div class="about-logo"><a href="home-travel.html" style="display:flex;justify-content:left;">
                                     
-                                <img src="assets/img/frexilogo.png" style="height:60px;margin-right:60px" alt="Tourm">
+                                <img src="assets/img/frexilogo.png" style="height:60px;margin-right:10px" alt="Tourm">
                             
              <!-- <h1 style="font-size: 35px; text-transform:capitalize;font-size:20px;margin-top:32px;font-style:italic">frexi tours and travel</h1> -->
 

@@ -212,7 +212,7 @@
           <div class="row align-items-center justify-content-between">
             <div class="col-auto">
               <div class="header-logo" style="display:flex;justify-content:center;">
-             <img src="assets/img/frexilogo.png" style="height:60px;width:80px;" alt="">
+             <img src="assets/img/frexilogo.png" style="height:60px;width:60px;" alt="">
 
              <!-- <h1 style="font-size: 35px; text-transform:capitalize;font-size:20px;margin-top:25px;font-style:italic">frexi tours and travel</h1> -->
 

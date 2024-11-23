@@ -1,7 +1,7 @@
 <html>
 <div class="magic-cursor relative z-10">
-      <div class="cursor"></div>
-      <div class="cursor-follower"></div>
+      <!-- <div class="cursor"></div> -->
+      <!-- <div class="cursor-follower"></div> -->
     </div>
     <div class="color-scheme-wrap active">
       <button class="switchIcon"><i class="fa-solid fa-palette"></i></button>
@@ -47,7 +47,7 @@
       >
     </div>
     <div id="preloader" class="preloader">
-      <button class=" preloaderCls"></button>
+      <button class="preloaderCls" style="border:1px solid white; color:white"></button>
     <div class="preloader-inner"><img src="assets/img/frexilogo.png" alt=""></div>
     <div id="loader" class="th-preloader">
       <div class="animation-preloader">

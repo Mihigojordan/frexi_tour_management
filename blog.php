@@ -17,8 +17,7 @@ include('./header.php')
 
   <body>
     <div class="magic-cursor relative z-10">
-      <div class="cursor"></div>
-      <div class="cursor-follower"></div>
+  
     </div>
     <?php include('./Components/navbar.php') ?>
     <div class="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcumb-bg.jpg">
