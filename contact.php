@@ -100,7 +100,7 @@ include('Loader.php');
         <div class="col-lg-6">
           <div class="video-box1">
             <a
-              href="https://www.youtube.com/watch?v=cQfIUPw72Dk"
+              href="https://www.youtube.com/watch?v=5FVO3IHwIzw"
               class="play-btn style2 popup-video"><i class="fa-sharp fa-solid fa-play"></i></a>
           </div>
         </div>
@@ -156,7 +156,8 @@ include('Loader.php');
   <div class="">
     <div class="container-fluid">
       <div class="contact-map style2">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.5159553475164!2d30.056990474804874!3d-1.9465655980357768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca4240db7b3f5%3A0x5256fd511623ef15!2sMakuza%20Peace%20Plaza!5e0!3m2!1sen!2srw!4v1731262198919!5m2!1sen!2srw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3987.5159553475164!2d30.056990474804874!3d-1.9465655980357768!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x19dca4240db7b3f5%3A0x5256fd511623ef15!2sMakuza%20Peace%20Plaza!5e0!3m2!1sen!2srw!4v1731262198919!5m2!1sen!2sr
+          " width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="contact-icon">
           <img src="assets/img/icon/location-dot3.svg" alt="" />
         </div>
