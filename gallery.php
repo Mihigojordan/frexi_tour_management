@@ -110,13 +110,14 @@ include('./Components/navbar.php')
  <?php
     include('./Components/footer.php')
         ?>
-
-</body>
-
-<?php
+        <?php
 
 include('library.php')
 
     ?>
+
+</body>
+
+
 
 </html>

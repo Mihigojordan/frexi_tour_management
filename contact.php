@@ -18,12 +18,12 @@ include('header.php');
 include('Loader.php');
    
 ?>
+  <?php
 
+include('./Components/navbar.php')
 
-<!DOCTYPE html>
-<html class="no-js" lang="zxx">
-<!-- Mirrored from html.themeholy.com/tourm/demo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Nov 2024 15:19:49 GMT -->
-  <?php include('./Components/navbar.php') ?>
+        ?>
+
   <div class="breadcumb-wrapper" data-bg-src="assets/img/bg/breadcumb-bg.jpg">
     <div class="container">
       <div class="breadcumb-content">
@@ -153,6 +153,9 @@ include('Loader.php');
       </div>
     </div>
   </div>
+
+
+
   <div class="">
     <div class="container-fluid">
       <div class="contact-map style2">
@@ -160,35 +163,141 @@ include('Loader.php');
           " width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         <div class="contact-icon">
           <img src="assets/img/icon/location-dot3.svg" alt="" />
-        </div>
-      </div>
+        </div> 
+       </div>
     </div>
+  </div> 
+  
+
+
+
+ 
+  <div class="scroll-top"><svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
+      <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+        style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+      </path>
+    </svg></div>
   </div>
 
-  <div class="scroll-top">
-    <svg
-      class="progress-circle svg-content"
-      width="100%"
-      height="100%"
-      viewBox="-1 -1 102 102">
-      <path
-        d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
-        style="
-            transition: stroke-dashoffset 10ms linear 0s;
-            stroke-dasharray: 307.919, 307.919;
-            stroke-dashoffset: 307.919;
-          "></path>
-    </svg>
-  </div>
-  </div>
-  <?php include('./Components/footer.php') ?>
+  <footer class="footer-wrapper footer-layout1">
+        <div class="widget-area">
+            <div class="container">
+                <div class="newsletter-area">
+                    <div class="newsletter-top">
+                        <div class="row gy-4 align-items-center">
+                            <div class="col-lg-5">
+                                <h2 class="newsletter-title text-capitalize mb-0">get updated the latest newsletter</h2>
+                            </div>
+                            <div class="col-lg-7">
+                                <form class="newsletter-form"><input class="form-control" type="email" placeholder="Enter Email" required=""> <button type="submit" class="th-btn style3">Subscribe Now <img src="assets/img/icon/plane.svg" alt=""></button></form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row justify-content-between">
+                    <div class="col-md-6 col-xl-3">
+                        <div class="widget footer-widget">
+                            <div class="th-widget-about">
+                                <div class="about-logo"><a href="home-travel.html" style="display:flex;justify-content:left;">
+                                    
+                                <img src="assets/img/frexilogo.png" style="height:60px;margin-right:10px" alt="Tourm">
+                            
+             <!-- <h1 style="font-size: 35px; text-transform:capitalize;font-size:20px;margin-top:32px;font-style:italic">frexi tours and travel</h1> -->
 
-</body>
-<!-- Mirrored from html.themeholy.com/tourm/demo/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Nov 2024 15:19:49 GMT -->
+                            
+                            </a>
+                                </div>
+                                <p class="about-text">Rapidiously myocardinate cross-platform intellectual capital model. Appropriately
+                                    create interactive infrastructures</p>
+                                <div class="th-social"><a href="https://www.facebook.com/frexiltd" target="_blank"><i class="fab fa-facebook-f" style="margin-top:7px"></i></a> <a href="https://www.twitter.com/frexiltd" target="_blank"><i class="fab fa-x" style="margin-top:7px"></i></a> <a href="https://www.linkedin.com/in/fabrice-iradukunda-77b309127" target="_blank" style="margin-top:7px"><i class="fab fa-linkedin-in" style="margin-top:7px"></i></a> <a href="https://www.whatsapp.com/+250782379122"><i class="fab fa-whatsapp" style="margin-top:7px"></i></a> <a href="https://instagram.com/frexiltd" target="_blank" ><i class="fab fa-instagram" style="margin-top:7px"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget widget_nav_menu footer-widget">
+                            <h3 class="widget_title">Quick Links</h3>
+                            <div class="menu-all-pages-container">
+                                <ul class="menu">
+                                    <li><a href="index.php">Home</a></li>
+                                    <li><a href="about.php">About us</a></li>
+                                    <li><a href="service.php">Our Service</a></li>
+                                    <li><a href="contact.php">Terms of Service</a></li>
+                                    <li><a href="contact.php">Tour Booking Now</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget footer-widget">
+                            <h3 class="widget_title">Address</h3>
+                            <div class="th-widget-contact">
+                                <div class="info-box_text">
+                                    <div class="icon"><img src="assets/img/icon/phone.svg" alt="img" style="margin-top:10px"></div>
+                                    <div class="details">
 
-<?php
+                                       
+                                        <p><a href="tel:+250 782 379 122" class="info-box_link" style="margin-top:130px">+250 782 379 122</a></p>
+
+
+                                    </div>
+                                </div>
+                                <div class="info-box_text">
+                                    <div class="icon"><img src="assets/img/icon/envelope.svg" alt="img" style="margin-top:10px"></div>
+                                    <div class="details">
+
+                                        <p><a href="mailto:mailinfo00@tourm.com" class="info-box_link">booking@frexi.rw</a></p>
+                                    
+
+                                  
+ </div>
+                                </div>
+                                <div class="info-box_text">
+                                    <div class="icon"><img src="assets/img/icon/location-dot.svg" alt="img" style="margin-top:5px"></div>
+                                    <div class="details">
+                                        <p>Makuza Peace Plaza 3rd Floor F3-28, KN 4 Ave, Kigali</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-xl-auto">
+                        <div class="widget footer-widget">
+                            <h3 class="widget_title">Instagram Post</h3>
+                            <div class="sidebar-gallery">
+                                <div class="gallery-thumb"><img src="assets/img/widget/gallery_1_1.jpg" alt="Gallery Image"> <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a></div>
+                                <div class="gallery-thumb"><img src="assets/img/widget/gallery_1_2.jpg" alt="Gallery Image"> <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a></div>
+                                <div class="gallery-thumb"><img src="assets/img/widget/gallery_1_3.jpg" alt="Gallery Image"> <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a></div>
+                                <div class="gallery-thumb"><img src="assets/img/widget/gallery_1_4.jpg" alt="Gallery Image"> <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a></div>
+                                <div class="gallery-thumb"><img src="assets/img/widget/gallery_1_5.jpg" alt="Gallery Image"> <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a></div>
+                                <div class="gallery-thumb"><img src="assets/img/widget/gallery_1_6.jpg" alt="Gallery Image"> <a target="_blank" href="https://www.instagram.com/" class="gallery-btn"><i class="fab fa-instagram"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-wrap background-image" style="background-image: url(&quot;assets/img/bg/copyright_bg_1.jpg&quot;);">
+            <div class="container">
+                <div class="row justify-content-between align-items-center">
+                    <div class="col-md-6">
+                        <p class="copyright-text">Copyright 2024 <a href="index.php">frexi tour and travel </a>. All Rights Reserved.</p>
+                    </div>
+                    <div class="col-md-6 text-end d-none d-md-block">
+                        <div class="footer-card"><span class="title">We Accept</span> <img src="assets/img/shape/cards.png" alt="">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+  <?php
 
 include('library.php')
 
     ?>
+
+</body>
+
+
+
 </html>

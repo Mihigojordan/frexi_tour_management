@@ -147,7 +147,7 @@
 
   <div class="th-menu-wrapper onepage-nav" >
     <div class="th-menu-area text-center"><button class="th-menu-toggle"><i class="fal fa-times"></i></button>
-      <div class="mobile-logo"><a href="home-travel.html"><img src="assets/img/frexilogo.png" alt="Tourm"></a></div>
+      <div class="mobile-logo"><a href="home-travel.html"><img src="assets/img/frexilogo.png" style="width:60px;height:60px" alt="Tourm"></a></div>
       <div class="th-mobile-menu">
         <ul>
           <li><a href="index.php">Home</a></li>
