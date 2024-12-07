@@ -40,7 +40,7 @@ include('./Components/navbar.php')
             <div class="destination-item_img global-img"><img src="assets/img/destination/travel.webp"
                 alt="image"></div>
             <div class="destination-content">
-              <h3 class="box-title"><a href="service-details.html">flight ticket</a></h3>
+              <h3 class="box-title"><a href="service.php">flight ticket</a></h3>
            
             </div>
           </div>
@@ -50,7 +50,7 @@ include('./Components/navbar.php')
             <div class="destination-item_img global-img"><img src="assets/img/destination/tour.jpeg"
                 alt="image"></div>
             <div class="destination-content">
-              <h3 class="box-title"><a href="service-details.html">Tour packages</a></h3>
+              <h3 class="box-title"><a href="service.php">Tour packages</a></h3>
          
             </div>
           </div>
@@ -60,7 +60,7 @@ include('./Components/navbar.php')
             <div class="destination-item_img global-img"><img src="assets/img/destination/holiday.jpeg" style="height:210px"
                 alt="image"></div>
             <div class="destination-content">
-              <h3 class="box-title"><a href="service-details.html">holiday packages</a></h3>
+              <h3 class="box-title"><a href="service.php">holiday packages</a></h3>
           
             </div>
           </div>
@@ -70,7 +70,7 @@ include('./Components/navbar.php')
             <div class="destination-item_img global-img"><img src="assets/img/destination/visa.jpeg" 
                 alt="image"></div>
             <div class="destination-content">
-              <h3 class="box-title"><a href="service-details.html">visa assistance</a></h3>
+              <h3 class="box-title"><a href="service.php">visa assistance</a></h3>
             
             </div>
           </div>
@@ -80,7 +80,7 @@ include('./Components/navbar.php')
             <div class="destination-item_img global-img"><img src="assets/img/destination/travel1.jpg"
                 alt="image"></div>
             <div class="destination-content">
-              <h3 class="box-title"><a href="service-details.html">travel insurance</a></h3>
+              <h3 class="box-title"><a href="service.php">travel insurance</a></h3>
             
             </div>
           </div>
@@ -90,7 +90,7 @@ include('./Components/navbar.php')
             <div class="destination-item_img global-img"><img src="assets/img/destination/motor.jpeg"
                 alt="image"></div>
             <div class="destination-content">
-              <h3 class="box-title"><a href="service-details.html">motor insurance </a></h3>
+              <h3 class="box-title"><a href="service.php">motor insurance </a></h3>
            
             </div>
           </div>
@@ -100,7 +100,7 @@ include('./Components/navbar.php')
             <div class="destination-item_img global-img"><img src="assets/img/destination/health.webp"
                 alt="image"></div>
             <div class="destination-content">
-              <h3 class="box-title"><a href="service-details.html">health insurance </a></h3>
+              <h3 class="box-title"><a href="service.php">health insurance </a></h3>
             
             </div>
           </div>
@@ -110,7 +110,7 @@ include('./Components/navbar.php')
             <div class="destination-item_img global-img"><img src="assets/img/destination/fire.jpeg"
                 alt="image"></div>
             <div class="destination-content">
-              <h3 class="box-title"><a href="service-details.html">fire insurance</a></h3>
+              <h3 class="box-title"><a href="service.php">fire insurance</a></h3>
            
             </div>
           </div>

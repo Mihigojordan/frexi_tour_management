@@ -25650,7 +25650,7 @@ span.select2-selection.select2-selection--single:focus {
   top: 10px;
   border: 0;
   background: var(--theme-color);
-  display:none;
+
   color: var(--white-color);
   height: 45px;
   width: 45px;
