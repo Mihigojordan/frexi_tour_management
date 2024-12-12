@@ -52,8 +52,7 @@ include('Loader.php');
           <i class="fa-solid fa-droplet"></i>
         </button>
         </div>
-        <a href="https://themeforest.net/search/themeholy" class="th-btn text-center"><i class="fa fa-shopping-cart me-2"></i> Purchase</a
-      >
+  
     </div>
   <?php include('./Components/navbar.php') ?>
   <div class="th-hero-wrapper hero-1" id="hero">
