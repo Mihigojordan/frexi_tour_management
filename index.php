@@ -342,7 +342,7 @@ include('Loader.php');
                   alt="destination image">
                 <div class="destination-content">
                   <div class="media-left">
-                    <h4 class="box-title"><a href="nyungwe_destination.php">nyungwe</a></h4><span
+                    <h4 class="box-title"><a href="nyungwe_destination.php">Nyungwe</a></h4><span
                       class="destination-subtitle">22 Listing</span>
                   </div>
                   <div class=""><a href="nyungwe_destination.php" class="th-btn style2 th-icon">View All</a></div>
@@ -370,7 +370,7 @@ include('Loader.php');
                   alt="destination image">
                 <div class="destination-content">
                   <div class="media-left">
-                    <h4 class="box-title"><a href="nairobi_destination.php">Nairobi, kenya</a></h4><span
+                    <h4 class="box-title"><a href="nairobi_destination.php">Nairobi</a></h4><span
                       class="destination-subtitle">28 Listing</span>
                   </div>
                   <div class=""><a href="nairobi_destination.php" class="th-btn style2 th-icon">View All</a></div>
@@ -412,7 +412,7 @@ include('Loader.php');
                   alt="destination image">
                 <div class="destination-content">
                   <div class="media-left">
-                    <h4 class="box-title"><a href="istanbul_destination.php">istanbul</a></h4><span
+                    <h4 class="box-title"><a href="istanbul_destination.php">Istanbul</a></h4><span
                       class="destination-subtitle">22 Listing</span>
                   </div>
                   <div class=""><a href="istanbul_destination.php" class="th-btn style2 th-icon">View All</a></div>
@@ -426,7 +426,7 @@ include('Loader.php');
                   alt="destination image">
                 <div class="destination-content">
                   <div class="media-left">
-                    <h4 class="box-title"><a href="belgium_destination.php">Belgium</a></h4><span
+                    <h4 class="box-title"><a href="belgium_destination.php">Brussels</a></h4><span
                       class="destination-subtitle">25 Listing</span>
                   </div>
                   <div class=""><a href="belgium_destination.php" class="th-btn style2 th-icon">View All</a></div>
@@ -440,7 +440,7 @@ include('Loader.php');
                   alt="destination image">
                 <div class="destination-content">
                   <div class="media-left">
-                    <h4 class="box-title"><a href="poland_destination.php">Poland</a></h4><span
+                    <h4 class="box-title"><a href="poland_destination.php">Warsaw</a></h4><span
                       class="destination-subtitle">28 Listing</span>
                   </div>
                   <div class=""><a href="poland_destination.php" class="th-btn style2 th-icon">View All</a></div>
@@ -539,7 +539,7 @@ include('Loader.php');
               <div class="tour-box th-ani gsap-cursor">
                 <div class="tour-box_img global-img"><img src="assets/img/tour/tour_box_1.jpg" alt="image"></div>
                 <div class="tour-content">
-                  <h3 class="box-title"><a href="">beligium  tour Package</a></h3>
+                  <h3 class="box-title"><a href=""> Brussels  tour Package</a></h3>
                   <div class="tour-rating">
                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated
                         <strong class="rating">5.00</strong> out of 5 based on <span class="rating">4.8</span>(4.8
@@ -556,7 +556,7 @@ include('Loader.php');
               <div class="tour-box th-ani gsap-cursor">
                 <div class="tour-box_img global-img"><img src="assets/img/destination/img4.jpg" style="height:270px" alt="image"></div>
                 <div class="tour-content">
-                  <h3 class="box-title"><a href="">poland Travel package</a></h3>
+                  <h3 class="box-title"><a href="">Warsaw Travel package</a></h3>
                   <div class="tour-rating">
                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated
                         <strong class="rating">5.00</strong> out of 5 based on <span class="rating">4.8</span>(4.8
@@ -591,7 +591,7 @@ include('Loader.php');
               <div class="tour-box th-ani gsap-cursor">
                 <div class="tour-box_img global-img"><img src="assets/img/tour/tour_box_4.jpg" alt="image"></div>
                 <div class="tour-content">
-                  <h3 class="box-title"><a href="">istanbul travel package</a></h3>
+                  <h3 class="box-title"><a href="">Istanbul travel package</a></h3>
                   <div class="tour-rating">
                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated
                         <strong class="rating">5.00</strong> out of 5 based on <span class="rating">4.8</span>(4.8
@@ -608,7 +608,7 @@ include('Loader.php');
               <div class="tour-box th-ani gsap-cursor">
                 <div class="tour-box_img global-img"><img src="assets/img/tour/tour_box_1.jpg" alt="image"></div>
                 <div class="tour-content">
-                <h3 class="box-title"><a href="">beligium  tour Package</a></h3>
+                <h3 class="box-title"><a href=""> Brussels  tour Package</a></h3>
                   <div class="tour-rating">
                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated
                         <strong class="rating">5.00</strong> out of 5 based on <span class="rating">4.8</span>(4.8
@@ -625,7 +625,7 @@ include('Loader.php');
               <div class="tour-box th-ani gsap-cursor">
                 <div class="tour-box_img global-img"><img src="assets/img/tour/tour_box_2.jpg" alt="image"></div>
                 <div class="tour-content">
-                <h3 class="box-title"><a href="">poland Travel Package</a></h3>
+                <h3 class="box-title"><a href="">Warsaw Travel Package</a></h3>
                   <div class="tour-rating">
                     <div class="star-rating" role="img" aria-label="Rated 5.00 out of 5"><span style="width:100%">Rated
                         <strong class="rating">5.00</strong> out of 5 based on <span class="rating">4.8</span>(4.8
@@ -713,7 +713,7 @@ include('Loader.php');
     <div class="container">
     <div class="container th-container">
       <div class="title-area text-center"><span class="sub-title">what interested about us</span>
-        <h2 class="sec-title">our achievement</h2>
+        <h2 class="sec-title">Our achievement</h2>
       </div>
       <div class="row">
         <div class="col-sm-6 col-xl-3 counter-card-wrap">

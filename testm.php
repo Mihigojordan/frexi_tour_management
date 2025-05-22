@@ -229,7 +229,7 @@ Merci Frexi.”</p>
 
     <div class="container th-container">
     <div class="title-area mb-40 text-center"><span class="sub-title">Partners</span>
-        <h2 class="sec-title">our partners </h2>
+        <h2 class="sec-title">Our partners </h2>
       </div>
 
     <div class="container th-container" style="margin-left:100px">
