@@ -712,7 +712,7 @@ include('Loader.php');
   <div class="counter-area space">
     <div class="container">
     <div class="container th-container">
-      <div class="title-area text-center"><span class="sub-title">what interested about us</span>
+      <div class="title-area text-center"><span class="sub-title"> What's Interested About Us</span>
         <h2 class="sec-title">Our achievement</h2>
       </div>
       <div class="row">

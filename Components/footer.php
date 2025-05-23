@@ -1,7 +1,3 @@
-<?php
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -108,7 +104,7 @@
                                     <div class="icon"><img src="assets/img/icon/envelope.svg" alt="img"></div>
                                     <div class="details">
 
-                                        <p><a href="mailto:mailinfo00@tourm.com" class="info-box_link">booking@frexi.rw</a></p>
+                                        <p><a href="mailto:mailinfo00@tourm.com" class="info-box_link">Booking@frexi.rw</a></p>
                                     
 
                                   
